@@ -1,0 +1,27 @@
+{
+  "name": "daycoval_server",
+  "version": "1.0.0",
+  "description": "daycoval_server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Otavio Bovo",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "body-parser": "^1.19.0",
+    "config": "^3.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "helmet": "^3.18.0",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "password" : "Aout##hhE",
+  "endpoint": "https://viacep.com.br/ws/",
+  "audience": "https://viacep.com.br/ws/",
+  "maxAge": "1s"
+}
